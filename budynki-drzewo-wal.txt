@@ -1,0 +1,167 @@
+{
+ "9179": {
+  "status": true,
+  "name": "WhiteCastle",
+  "real_status": true
+ },
+ "8822": {
+  "status": true,
+  "name": "Carpenter",
+  "real_status": true
+ },
+ "8556": {
+  "status": true,
+  "name": "AdvancedToolmaker",
+  "real_status": true
+ },
+ "8379": {
+  "status": true,
+  "name": "AdvancedToolmaker",
+  "real_status": true
+ },
+ "8203": {
+  "status": true,
+  "name": "PlatinumSmelter",
+  "real_status": true
+ },
+ "7849": {
+  "status": true,
+  "name": "ArchebuseMaker",
+  "real_status": true
+ },
+ "8293": {
+  "status": true,
+  "name": "PlatinumSmelter",
+  "real_status": true
+ },
+ "8472": {
+  "status": true,
+  "name": "PlatinumSmelter",
+  "real_status": true
+ },
+ "8295": {
+  "status": true,
+  "name": "PlatinumSmelter",
+  "real_status": true
+ },
+ "8116": {
+  "status": true,
+  "name": "PlatinumSmelter",
+  "real_status": true
+ },
+ "8830": {
+  "status": true,
+  "name": "IronWeaponsmith",
+  "real_status": true
+ },
+ "8921": {
+  "status": true,
+  "name": "Crossbowsmith",
+  "real_status": true
+ },
+ "9005": {
+  "status": true,
+  "name": "PlatinumWeaponsmith",
+  "real_status": true
+ },
+ "9182": {
+  "status": true,
+  "name": "PlatinumSmelter",
+  "real_status": true
+ },
+ "9363": {
+  "status": true,
+  "name": "EliteStable",
+  "real_status": true
+ },
+ "9007": {
+  "status": true,
+  "name": "SteelWeaponsmith",
+  "real_status": true
+ },
+ "9186": {
+  "status": true,
+  "name": "GoldSmelter",
+  "real_status": true
+ },
+ "9633": {
+  "status": true,
+  "name": "Powderhut",
+  "real_status": true
+ },
+ "10077": {
+  "status": true,
+  "name": "PlatinumWeaponsmith",
+  "real_status": true
+ },
+ "9898": {
+  "status": true,
+  "name": "Coinage",
+  "real_status": true
+ },
+ "9631": {
+  "status": true,
+  "name": "Ornamentalsmith",
+  "real_status": true
+ },
+ "9808": {
+  "status": true,
+  "name": "Coinage",
+  "real_status": true
+ },
+ "10254": {
+  "status": true,
+  "name": "Coinage",
+  "real_status": true
+ },
+ "10519": {
+  "status": true,
+  "name": "GoldSmelter",
+  "real_status": true
+ },
+ "10252": {
+  "status": true,
+  "name": "TitaniumWeaponsmith",
+  "real_status": true
+ },
+ "10249": {
+  "status": true,
+  "name": "SteelForge",
+  "real_status": true
+ },
+ "10340": {
+  "status": true,
+  "name": "GoldSmelter",
+  "real_status": true
+ },
+ "10072": {
+  "status": true,
+  "name": "SaddleMaker",
+  "real_status": true
+ },
+ "9805": {
+  "status": true,
+  "name": "TitaniumSmelter",
+  "real_status": true
+ },
+ "9891": {
+  "status": true,
+  "name": "PlatinumWeaponsmith",
+  "real_status": true
+ },
+ "10517": {
+  "status": true,
+  "name": "WagonMaker",
+  "real_status": true
+ },
+ "9717": {
+  "status": true,
+  "name": "Coinage",
+  "real_status": true
+ },
+ "9985": {
+  "status": true,
+  "name": "Coinage",
+  "real_status": true
+ }
+}
