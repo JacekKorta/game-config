@@ -841,6 +841,21 @@
    "buffName": "ProductivityBuffLvl23",
    "buiGrid": 6209,
    "buiName": "ExoticWoodForester"
+  },
+  {
+   "buffName": "ProductivityBuffLvl23",
+   "buiGrid": 9201,
+   "buiName": "GoldMine"
+  },
+  {
+   "buffName": "ProductivityBuffLvl23",
+   "buiGrid": 768,
+   "buiName": "GoldMine"
+  },
+  {
+   "buffName": "ProductivityBuffLvl23",
+   "buiGrid": 5123,
+   "buiName": "IronMine"
   }
  ]
 }
